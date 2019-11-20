@@ -1,0 +1,14 @@
+"*":
+  core:
+    disabledPackages: [
+      "linter-flake8"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "atom-material-ui"
+      "one-dark-syntax"
+    ]
+  "exception-reporting":
+    userId: "dafb8681-a344-43a1-b370-88e82cff2c5e"
+  welcome:
+    showOnStartup: false
